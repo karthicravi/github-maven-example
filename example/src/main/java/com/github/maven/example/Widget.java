@@ -33,4 +33,8 @@ public class Widget {
 		this.enabled = enabled;
 		return this;
 	}
+	
+	public void test(){
+	}
+	
 }
